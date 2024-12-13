@@ -17,9 +17,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-
----
-
-## 🌱 1일 1커밋 챌린지
-하루에 한 번씩 커밋하며 꾸준한 성장을 이어갑니다!  
-**목표**: 매일 커밋하여 GitHub 잔디밭을 푸르게 가꾸기 🌱
